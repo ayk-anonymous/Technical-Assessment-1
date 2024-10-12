@@ -1,1 +1,1 @@
-# ayk-anonymous-241012---Technical-Assessment-1
+Technical-Assessment-1
